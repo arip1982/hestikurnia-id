@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-  - export DEPLOYPATH=/home/usercpanel/public_html/latihan
+  - export DEPLOYPATH=/home/hesm4515/public_html/latihan
   - /bin/cp -R * $DEPLOYPATH
