@@ -1,0 +1,8 @@
+#galeri{
+  background-color: #e2edff;
+}
+.img-square {
+  width: 60%; 
+  /*height: 200px; /* Sesuaikan tinggi gambar */
+ /* Memastikan gambar tetap proporsional */
+}
