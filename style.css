@@ -1,8 +1,24 @@
-#galeri{
-  background-color: #e2edff;
+/* Pengaturan Navbar */
+.navbar {
+  background-color: rgba(255, 0, 0, 0.793);
+}
+
+.nav-link {
+  color: yellow !important;
+}
+
+section {
+  padding-top: 70px;
+}
+footer {
+  background-color: rgba(255, 0, 0, 0.793);
+}
+
+#galeri {
+  background-color: #f6d9000f;
 }
 .img-square {
-  width: 60%; 
+  width: 60%;
   /*height: 200px; /* Sesuaikan tinggi gambar */
- /* Memastikan gambar tetap proporsional */
+  /* Memastikan gambar tetap proporsional */
 }
