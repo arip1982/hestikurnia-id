@@ -1,2 +1,1 @@
 # hestikurnia-id
-# hestikurnia-id
