@@ -2,6 +2,9 @@ section {
   padding-top: 70px;
 }
 
+.blockquote-footer {
+  color: white;
+}
 
 #galeri {
   background-color: #f0534b0f;
