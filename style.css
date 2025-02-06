@@ -2,9 +2,7 @@ section {
   padding-top: 70px;
 }
 
-.blockquote-footer
-{
-  
+.blockquote-footer {
   background-color: gray;
 }
 
@@ -15,4 +13,8 @@ section {
   width: 60%;
   /*height: 200px; /* Sesuaikan tinggi gambar */
   /* Memastikan gambar tetap proporsional */
+}
+/* Set the border color to the desired color */
+.custom-toggler.navbar-toggler {
+  border-color: white;
 }
