@@ -1,0 +1,5 @@
+# robots.txt for hestikurnia.id
+User-agent: *
+Disallow:
+
+Sitemap: https://hestikurnia.id/sitemap.xml
